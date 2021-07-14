@@ -1,0 +1,14 @@
+.my-card {
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.my-card-blue {
+  border-color: blue;
+}
+
+.my-card-red {
+  border-color: red;
+}

@@ -1,0 +1,9 @@
+.expense-date {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  max-width: 100px;
+  background-color: yellow;
+  margin-right: 20px;
+}
